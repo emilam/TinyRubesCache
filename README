@@ -1,0 +1,4 @@
+In an effort to learn Ruby, I wrote a fake memcache server.
+It should conform to the spec slightly, but I have not tested it against a real memcache client.
+
+I'll improve this when I get better at ruby
